@@ -5,13 +5,13 @@
 ![GitHub starts](https://img.shields.io/github/stars/ianlgk/github-profile-explorer?label=Stars&style=plastic)
 ![GitHub forks](https://img.shields.io/github/forks/ianlgk/github-profile-explorer?label=Forks&style=plastic)
 
-<img src="https://github.com/ianlgk/ianlgk/blob/main/assets/github-explorer-print.png" alt="Home Page - GitHub Explorer" width="100%">
+<img src="https://github.com/ianlgk/ianlgk/blob/main/assets/github-explorer-print.png" alt="Home Page - GitHub Explorer" width="800px">
 
 > This is a ReactJS project using Typescript that is called "GitHub Explorer" and you can search for github users and acess their informations about repositories and followers!
 
-## 🚀 How can I install GitHub Explorer
+## 🚀 How can I install GitHub Explorer?
 
-If you want to install GitHubExplorer, follow this steps:
+If you want to install GitHub Explorer, follow this steps:
 
 ```
   git init
@@ -23,7 +23,7 @@ If you want to install GitHubExplorer, follow this steps:
 2. git clone will clone the repository on your local machine
 3. yarn will download all project's dependecies
 
-## ☕ How can I use GitHub Explorer
+## ☕ How can I use GitHub Explorer?
 
 Now that you have installed the GitHub Explorer, follow this steps to run the project:
 
