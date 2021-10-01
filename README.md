@@ -3,9 +3,9 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ianlgk/github-profile-explorer?label=Repository%20size&style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/ianlgk/github-profile-explorer?label=Languages&style=plastic)
 ![GitHub starts](https://img.shields.io/github/stars/ianlgk/github-profile-explorer?label=Stars&style=plastic)
-![GitHub forks](https://img.shields.io/github/forks/ianlgk/github-profile-explorer?color=black&label=Forks&logo=GitHub&logoColor=white&style=plastic)
+![GitHub forks](https://img.shields.io/github/forks/ianlgk/github-profile-explorer?label=Forks&style=plastic)
 
-<img src="https://github.com/ianlgk/ianlgk/blob/main/assets/github-explorer-print.png" alt="Home Page - GitHub Explorer" width="500px">
+<img src="https://github.com/ianlgk/ianlgk/blob/main/assets/github-explorer-print.png" alt="Home Page - GitHub Explorer" width="100%">
 
 > This is a ReactJS project using Typescript that is called "GitHub Explorer" and you can search for github users and acess their informations about repositories and followers!
 
