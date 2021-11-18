@@ -16,12 +16,17 @@ If you want to install GitHub Explorer, follow this steps:
 ```
   git init
   git clone https://github.com/ianlgk/github-profile-explorer.git
+  cd 'github-profile-explorer'
   yarn
 ```
 
-1. git init initializes or reboots a repository
-2. git clone will clone the repository on your local machine
-3. yarn will download all project's dependecies
+### 🤔 Commands
+Maybe you are thinking, "🤔 What are this terminal commands doing?", but don't be worried!
+I'm gonna show you one by one what are their purpose:
+1. git init      : initializes or reboots a repository
+2. git clone     : clone the repository on your local machine
+3. cd 'file_name': enter on the 'file_name' directory
+4. yarn: install all project's dependecies
 
 ## ☕ How can I use GitHub Explorer?
 
