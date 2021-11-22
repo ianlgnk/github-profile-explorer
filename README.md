@@ -48,6 +48,11 @@ In case that you do not want to install the project, you can use the GitHub Expl
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"><br>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router DOM"><br>
 
+### 📚 Libraries
+1. Axios
+2. React Toastify
+3. React Icons
+
 ## 🤝 Contributors
 
 <table>
