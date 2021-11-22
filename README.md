@@ -6,7 +6,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/ianlgk/github-profile-explorer?label=Forks&style=plastic)
 
 <p align="center">
-  <img src="https://github.com/ianlgk/ianlgk/blob/main/assets/github-explorer-print.png" alt="Home Page - GitHub Explorer">
+  <img src="https://github.com/ianlgk/ianlgk/blob/main/assets/github-explorer.gif" alt="Home Page - GitHub Explorer">
  </p>
 
 > This is a ReactJS project using Typescript that is called "GitHub Explorer" and you can search for github users and acess their informations about repositories and followers!
